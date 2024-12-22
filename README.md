@@ -24,7 +24,7 @@ You can install the necessary libraries using pip:
 pip install numpy matplotlib pandas
 
 
-sin_cos_visualization/
+visualization/
 │
 ├── main.py                # Main script to generate and plot the functions
 ├── README.md              # Project documentation
