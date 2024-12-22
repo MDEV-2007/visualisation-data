@@ -34,22 +34,5 @@ sin_cos_visualization/
 ```
 Happy Coding! 🚀
 
-markdown
-Copy code
 
-### Key Sections in the README:
-1. **Project Overview**: A brief description of the project and what it does.
-2. **Requirements**: Instructions on how to install the required libraries.
-3. **Features**: What the project offers (e.g., plotting functions, data handling with Pandas).
-4. **Example Usage**: Example code to demonstrate how the project works.
-5. **Output**: What the user should expect as a result.
-6. **Repository Structure**: Directory structure of the project.
-7. **Contributing**: Guidelines for contributing to the project.
-8. **License**: Information about the project's license.
-9. **Contact**: Your contact information for any questions.
-
-### How to Use:
-1. Copy the README into your repository.
-2. Replace `[your-email@example.com]` with your actual contact email (or leave it blank if not needed).
-3. Customize the project details as necessary.
 
