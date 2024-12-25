@@ -1,8 +1,7 @@
 ![seaborn1](https://github.com/user-attachments/assets/f5af744e-31d1-47b3-8e49-15e6c397f12f)
 
 ![3](https://github.com/user-attachments/assets/cdb9029d-42b5-47ca-a281-3235f8b65d97)
-![2](https://github.com/user-attachments/assets/1df8c522-9bca-4b4f-b2ea-32e2ec2bec78)
-![output](https://github.com/user-attachments/assets/ce90dc3a-dffd-4df9-9493-2055ad3b2e2b)
+
 
 # Sin and Cos Functions Visualization
 
